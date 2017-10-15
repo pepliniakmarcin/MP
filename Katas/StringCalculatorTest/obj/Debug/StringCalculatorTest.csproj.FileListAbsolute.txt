@@ -1,0 +1,7 @@
+F:\Programowanie\Projekty\Katas\StringCalculatorTest\bin\Debug\StringCalculatorTest.dll
+F:\Programowanie\Projekty\Katas\StringCalculatorTest\bin\Debug\StringCalculatorTest.pdb
+F:\Programowanie\Projekty\Katas\StringCalculatorTest\obj\Debug\StringCalculatorTest.csprojResolveAssemblyReference.cache
+F:\Programowanie\Projekty\Katas\StringCalculatorTest\obj\Debug\StringCalculatorTest.dll
+F:\Programowanie\Projekty\Katas\StringCalculatorTest\obj\Debug\StringCalculatorTest.pdb
+F:\Programowanie\Projekty\Katas\StringCalculatorTest\bin\Debug\StringCalculator.exe
+F:\Programowanie\Projekty\Katas\StringCalculatorTest\bin\Debug\StringCalculator.pdb

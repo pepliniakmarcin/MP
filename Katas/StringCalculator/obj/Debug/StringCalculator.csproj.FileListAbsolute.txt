@@ -1,0 +1,6 @@
+F:\Programowanie\Projekty\Katas\StringCalculator\bin\Debug\StringCalculator.exe.config
+F:\Programowanie\Projekty\Katas\StringCalculator\bin\Debug\StringCalculator.exe
+F:\Programowanie\Projekty\Katas\StringCalculator\bin\Debug\StringCalculator.pdb
+F:\Programowanie\Projekty\Katas\StringCalculator\obj\Debug\StringCalculator.csprojResolveAssemblyReference.cache
+F:\Programowanie\Projekty\Katas\StringCalculator\obj\Debug\StringCalculator.exe
+F:\Programowanie\Projekty\Katas\StringCalculator\obj\Debug\StringCalculator.pdb
